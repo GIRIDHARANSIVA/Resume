@@ -1,0 +1,21 @@
+h2,h3{
+    background:#363933; 
+    color:white;   
+}
+body{
+        padding:35px;    
+        width:900px;
+        height:1020px;
+        left:14%;
+        position:absolute;  
+        border:double;
+        top:50px;
+        bottom:50px;
+
+}
+h3{
+    position: sticky;
+}
+         
+
+
